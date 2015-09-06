@@ -1,4 +1,4 @@
-package org.eclipse.jetty.demo;
+package com.likejian.websocket;
 
 import javax.servlet.ServletException;
 import javax.websocket.server.ServerContainer;

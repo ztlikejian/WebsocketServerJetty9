@@ -1,4 +1,4 @@
-package org.eclipse.jetty.demo;
+package com.likejian.websocket;
 import java.io.IOException;
 
 import javax.websocket.ClientEndpoint;
