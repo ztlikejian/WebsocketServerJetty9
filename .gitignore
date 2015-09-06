@@ -48,3 +48,4 @@ bin/
 gen/
 .settings/
 proguard/
+*.jar
