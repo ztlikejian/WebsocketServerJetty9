@@ -16,9 +16,9 @@ import com.likejian.thread.ChatThread;
 
 @ClientEndpoint
 @ServerEndpoint(value="/websocket/")
-public class EventSocket
-{
-private static Logger logger = Logger.getLogger(EventSocket.class.getName());
+public class EventSocket{
+	
+	private static Logger logger = Logger.getLogger(EventSocket.class.getName());
 	
 	@OnOpen
 	public void onOpen(Session session) {
